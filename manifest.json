@@ -1,11 +1,11 @@
 {
     "name": "Minilabs Química",
     "short_name": "Química mL",
-    "start_url": "/",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "O Fantásico Laboratório de Química. No seu bolso.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
